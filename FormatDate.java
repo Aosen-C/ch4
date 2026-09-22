@@ -8,7 +8,7 @@ public class FormatDate {
 		
 	public static void printEuropean(String day, String month, int date, int year) {
 		
-		System.out.printf("%s %d %s %d", day, date, month, year);
+		System.out.printf("%s %d %s %d\n", day, date, month, year);
 		
 		}
 	
