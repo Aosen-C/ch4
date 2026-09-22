@@ -18,5 +18,4 @@ public class FormatDate {
 		printEuropean("Monday", "July", 22, 2019);
 		
 		}
-	
 	}
